@@ -1,0 +1,30 @@
+<?xml version = "1.0"?>
+<platforms>
+	<platform id="0" x="29" y="-129" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="1" x="213" y="-462" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="2" x="88" y="-83" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="3" x="24" y="-197" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="4" x="156" y="-167" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="5" x="96" y="-258" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="6" x="75" y="-364" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="7" x="302" y="-372" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="8" x="177" y="-343" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="9" x="310" y="-249" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="10" x="284" y="-116" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="11" x="348" y="-504" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="12" x="189" y="-145" type="normal" hasSpecial="none" hasEnemy="2" />
+	<platform id="13" x="238" y="-865" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="14" x="118" y="-349" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="15" x="153" y="-264" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="16" x="286" y="-358" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="17" x="214" y="-75" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="18" x="264" y="-759" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="19" x="29" y="-724" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="20" x="40" y="-805" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="21" x="209" y="-1000" type="normal" hasSpecial="none" hasEnemy="1" />
+	<platform id="22" x="218" y="-925" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="23" x="302" y="-850" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="24" x="307" y="-925" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="25" x="29" y="-494" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+	<platform id="26" x="229" y="-594" type="moveSideways" hasSpecial="none" hasEnemy="0" />
+</platforms>

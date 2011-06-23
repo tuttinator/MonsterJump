@@ -1,0 +1,42 @@
+<?xml version = "1.0"?>
+<platforms>
+	<platform id="0" x="29" y="129" type="normal" hasSpecial="none" hasEnemy="0" />
+	<platform id="1" x="23" y="462" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="2" x="88" y="83" type="moveUpandDown" hasSpecial="none" hasEnemy="0"  />
+	<platform id="3" x="24" y="197" type="moveSideways" hasSpecial="none" hasEnemy="0"  />
+	<platform id="4" x="217" y="40" type="normal" hasSpecial="none" hasEnemy="2"  />
+	<platform id="5" x="156" y="167" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="6" x="96" y="258" type="oneHitWonder" hasSpecial="none" hasEnemy="0"  />
+	<platform id="7" x="75" y="364" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="8" x="302" y="372" type="normal" hasSpecial="spring" hasEnemy="0" />
+	<platform id="9" x="75" y="451" type="normal" hasSpecial="none" hasEnemy="1"  />
+	<platform id="10" x="177" y="343" type="moveUpandDown" hasSpecial="none" hasEnemy="0"  />
+	<platform id="11" x="50" y="567" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="12" x="310" y="249" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="13" x="284" y="116" type="oneHitWonder" hasSpecial="none" hasEnemy="0"  />
+	<platform id="14" x="238" y="586" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="15" x="163" y="580" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="16" x="348" y="504" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="17" x="50" y="-396" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="18" x="189" y="-145" type="oneHitWonder" hasSpecial="none" hasEnemy="0"  />
+	<platform id="19" x="238" y="465" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="20" x="193" y="-567" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="21" x="110" y="-465" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="22" x="118" y="-349" type="moveUpandDown" hasSpecial="none" hasEnemy="0"  />
+	<platform id="23" x="278" y="-235" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="24" x="153" y="-264" type="oneHitWonder" hasSpecial="none" hasEnemy="0"  />
+	<platform id="25" x="286" y="-358" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="26" x="214" y="-75" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="27" x="139" y="-27" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="28" x="324" y="-103" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="29" x="264" y="-759" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="30" x="29" y="-724" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="31" x="40" y="-805" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="32" x="209" y="-1000" type="moveUpandDown" hasSpecial="none" hasEnemy="0"  />
+	<platform id="33" x="218" y="-925" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="34" x="125" y="-772" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="35" x="302" y="-850" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="36" x="89" y="-895" type="oneHitWonder" hasSpecial="none" hasEnemy="0"  />
+	<platform id="37" x="171" y="-640" type="normal" hasSpecial="none" hasEnemy="0"  />
+	<platform id="38" x="307" y="-925" type="normal" hasSpecial="none" hasEnemy="0"  />
+</platforms>
